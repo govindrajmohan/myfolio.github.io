@@ -341,6 +341,14 @@ footer {
 }
 
 @media (max-width: 575.5px) {
+  .main-header .main-header-content .btn-contact {
+    font-size: 1em;
+    width: 11rem;
+  }
+  .about-me .about-img img {
+    width: 15rem;
+    margin-top: 4rem;
+  }
   .my-services .card {
     margin-bottom: 0rem;
   }
@@ -401,6 +409,7 @@ footer {
   }
   .about-me .about-img img {
     width: 15rem;
+    margin-top: 4rem;
   }
   .about-me .about-me-content p {
     font-size: 1rem;
